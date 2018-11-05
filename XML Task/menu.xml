@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+ <Food>
+  <menu>Pizzas</menu>
+  <item>Humburg</item>
+  <price>100</price>
+ </Food>
+</Info>
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+ <Food>
+  <menu>Pizzas</menu>
+  <item>Humburg</item>
+  <price>22</price>
+ </Food>
+</Info>
